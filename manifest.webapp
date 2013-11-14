@@ -1,0 +1,11 @@
+{
+  "name": "Hello World",
+  "description": "Igovan's test Hello World!",
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Igovan",
+    "url": "http://igorordonez.com"
+  },
+  "permissions": {}
+}
